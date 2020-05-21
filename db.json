@@ -1,0 +1,45 @@
+{
+  "offers": [{
+      "min": 10,
+      "max": 100,
+      "percent": 6.3,
+      "freq": "onceAtWeek"
+    },
+    {
+      "min": 14,
+      "max": 110,
+      "percent": 6.7,
+      "freq": "onceAtMonth"
+    },
+    {
+      "min": 12,
+      "max": 120,
+      "percent": 6.1,
+      "freq": "once"
+    },
+    {
+      "min": 7,
+      "max": 57,
+      "percent": 3.6,
+      "freq": "onceAtWeek"
+    },
+    {
+      "min": 15,
+      "max": 130,
+      "percent": 4.9,
+      "freq": "onceAtMonth"
+    },
+    {
+      "min": 17,
+      "max": 190,
+      "percent": 7.2,
+      "freq": "once"
+    },
+    {
+      "min": 9,
+      "max": 95,
+      "percent": 3.6,
+      "freq": "onceAtWeek"
+    }
+  ]
+}
