@@ -1,45 +1,60 @@
 {
-  "offers": [{
-      "min": 10,
-      "max": 100,
-      "percent": 6.3,
-      "freq": "onceAtWeek"
-    },
-    {
-      "min": 14,
-      "max": 110,
-      "percent": 6.7,
-      "freq": "onceAtMonth"
-    },
-    {
-      "min": 12,
-      "max": 120,
-      "percent": 6.1,
-      "freq": "once"
-    },
-    {
-      "min": 7,
-      "max": 57,
-      "percent": 3.6,
-      "freq": "onceAtWeek"
-    },
-    {
-      "min": 15,
-      "max": 130,
-      "percent": 4.9,
-      "freq": "onceAtMonth"
-    },
-    {
-      "min": 17,
-      "max": 190,
-      "percent": 7.2,
-      "freq": "once"
-    },
-    {
-      "min": 9,
-      "max": 95,
-      "percent": 3.6,
-      "freq": "onceAtWeek"
-    }
-  ]
+	"offers": [
+		{
+			"id": "f11e8fc7",
+			"min": "11",
+			"max": "1001",
+			"percent": "1",
+			"freq": "Каждые две недели"
+		},
+		{
+			"id": "f4edf1d6",
+			"min": "1033",
+			"max": "1133",
+			"percent": "303",
+			"freq": "Ежемесячно"
+		},
+		{
+			"id": "f979149",
+			"min": "5",
+			"max": "105",
+			"percent": "5",
+			"freq": "Ежемесячно"
+		},
+		{
+			"id": "f5b42576",
+			"min": 0,
+			"max": "100",
+			"percent": 0,
+			"freq": "Ежемесячно"
+		},
+		{
+			"id": "f3ded6ca",
+			"min": 0,
+			"max": 0,
+			"percent": 0,
+			"freq": "Eдиновременно"
+		},
+		{
+			"id": "f2bbe592",
+			"min": 0,
+			"max": 0,
+			"percent": 0,
+			"freq": "Eдиновременно"
+		},
+		{
+			"id": "f1cee2c8",
+			"min": 0,
+			"max": 0,
+			"percent": 0,
+			"freq": "Eдиновременно"
+		},
+		{
+			"id": "faa14f1",
+			"min": 0,
+			"max": 0,
+			"percent": 0,
+			"freq": "Eдиновременно"
+		}
+	]
 }
